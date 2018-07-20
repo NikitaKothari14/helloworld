@@ -1,5 +1,5 @@
 applications:
 - name: node-hello-world
-  host: nikita-hostname
+  host: Delivery-pipeline
   memory: 128M
   buildpack: sdk-for-nodejs
